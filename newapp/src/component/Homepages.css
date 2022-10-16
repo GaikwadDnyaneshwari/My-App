@@ -1,0 +1,52 @@
+.homepage_container{
+   align-items: center;
+   display: flex;
+   height: 90vh;
+}
+.homepage_left{
+    flex: 0.6;
+    padding-right: 30px ;
+}
+.red{
+    color: red;
+    
+
+}
+.homepage_left_h1{
+    font-size: xx-large;
+}
+.homepage_left_h2{
+    font-size: 48px;
+    font-weight: 700;
+    margin: -15px 0;
+    color: whitesmoke;
+}
+.homepage_left_h3{
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.homepage_left_description{
+    font-size: 13px;
+    color: whitesmoke;
+}
+
+.btn:hover{
+  color: red;
+}
+
+.homepage_right{
+    flex: 0.4;
+}
+.homepage_right> img{
+    width:70%}
+
+.homopage_logo{
+   margin-left: 10px;
+    height: 60px;
+}
+.coder{
+    position :relative;
+    left:80%;
+    bottom: 40vh;
+}
